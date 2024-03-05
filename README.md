@@ -1,5 +1,5 @@
     //Purpose of this app//
-- This app uses GitHub API token and gets youm, for a start, 3 different metadata from GitHub project:
+- This app uses GitHub API token and gets you, for a start, 3 different metadata from GitHub project:
 - This app can get you number of stargazes, so you can see how many likes the project has on GitHub, without looking on the website.
 - It gets you latest commits. (The latest commits score is based on the current week as the API token refreshes the numbers every week.)
 - It gets you number of contributors.
